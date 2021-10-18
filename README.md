@@ -30,29 +30,11 @@ If you find a bug (the website couldn't handle the query and or gave undesired r
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
- <img src="C:\Users\Fau\Desktop\Akan-Names\images\akan.jpg" alt="picture">
-
- -Basically this is the landing page of the Akan Names website where the user gets to know more about the website function and how the user will interact with it.
-
- <img src="C:\Users\Fau\Desktop\Akan-Names\images\date.jpg" alt="picture">
- -This is a place holder where one enters the date of the day they were born in order to be read in the website.
- -The dates are written in numbers e.g ; 12.
-
- <img src="C:\Users\Fau\Desktop\Akan-Names\images\month.jpg" alt="picture">
- -This is a place holder where one enters the month of the year they were born in order to be read in the website.
- -The month is written in numbers e.g ; 12.
-
- <img src="C:\Users\Fau\Desktop\Akan-Names\images\year.jpg" alt="picture">
- -This is a place holder where one enters the year they were born in order to be read in the wwebsite.
- -The year is written in numbers e.g ;2000.
-
- <img src="C:\Users\Fau\Desktop\Akan-Names\images\gender&submit.jpg" alt="picture">
- -At the gender one is required to click on his/her gender then submit in order to get his/her Ghananian Akan name.
- -After submitting the akan name will appear.
+ Contact Information.
+ 0768549788
+ cocotesot254@gmail.com
 
  
-
-
 License
 MIT Copyright (c) 2021 CONCEPTA CHERONO
 
